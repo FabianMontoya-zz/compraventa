@@ -1,0 +1,15 @@
+c:\users\mendoza toro\documents\visual studio 2013\Projects\compraventa\compraventa\bin\compraventa.dll.config
+c:\users\mendoza toro\documents\visual studio 2013\Projects\compraventa\compraventa\bin\compraventa.dll
+c:\users\mendoza toro\documents\visual studio 2013\Projects\compraventa\compraventa\bin\compraventa.pdb
+c:\users\mendoza toro\documents\visual studio 2013\Projects\compraventa\compraventa\obj\Debug\compraventa.dll
+c:\users\mendoza toro\documents\visual studio 2013\Projects\compraventa\compraventa\obj\Debug\compraventa.pdb
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\compraventa.dll.config
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\compraventa.dll
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\compraventa.pdb
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\MySql.Data.dll
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\MySql.Data.xml
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\obj\Debug\compraventa.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\obj\Debug\compraventa.dll
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\obj\Debug\compraventa.pdb
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\Newtonsoft.Json.dll
+C:\Users\Fabian\Documents\Visual Studio 2015\Projects\compraventa\compraventa\bin\Newtonsoft.Json.xml

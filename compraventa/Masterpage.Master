@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.master.cs" Inherits="compraventa.Masterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Compra - Venta</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+
+   <!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title"><a class="mdl-navigation__link" href="#" id="Web_Logo">ICONO</a></span>
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation. We hide it in small screens. -->
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+        <a class="mdl-navigation__link" href="#" id="Web_Salir">Salir</a>
+      </nav>
+    </div>
+  </header>
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Compra - Venta</span>
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="#" id="Web_VentasCredito">Ventas Crédito</a>
+      <a class="mdl-navigation__link" href="#" id="Web_2">Ventas</a>
+      <a class="mdl-navigation__link" href="#" id="Web_3">Desempeño</a>
+      <a class="mdl-navigation__link" href="#" id="Web_4">Página 4</a>
+      <a class="mdl-navigation__link" href="#" id="Web_5" target="_blank">Manual Ventas Crédito</a>
+      <a class="mdl-navigation__link" href="#" id="Web_6" target="_blank">Manual Ventas</a>
+    </nav>
+  </div>
+ 
+</div>
+  
+    <asp:ContentPlaceHolder ID="body" runat="server">
+    </asp:ContentPlaceHolder>
+    <%-- Pie de Página o Footer --%>
+    <footer class="mdl-mega-footer">
+        <div class="mdl-mega-footer__top-section">
+            <div class="mdl-mega-footer__left-section">
+                Fabian Dario Montoya B
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
